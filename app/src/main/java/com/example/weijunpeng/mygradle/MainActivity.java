@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Bind(R.id.wheelviewmain)
     WheelView wva;
-    private static final String[] PLANETS = new String[]{"Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune", "Pluto"};
+    private static final String[] PLANETS = new String[]{"河南", "安徽", "北京", "天津", "广东", "福建", "深圳", "浙江"};
 
 
     @Override
